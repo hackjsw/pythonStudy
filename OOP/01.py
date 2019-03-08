@@ -1,8 +1,6 @@
 #定义一个空类
 class Student():
     pass
-
-
 #定义一个对象
 mingyue = Student()
 
