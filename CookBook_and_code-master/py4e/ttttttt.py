@@ -1,4 +1,2 @@
-from urllib import requests
-
-resp=requests.urlopen('http://www.baidu.com')
-print(type(resp))
+for i in range(1, 11,2):
+    print(i)
